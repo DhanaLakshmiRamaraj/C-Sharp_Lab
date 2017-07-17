@@ -1,0 +1,6 @@
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse\StringReverse\bin\Debug\StringReverse.exe.config
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse\StringReverse\bin\Debug\StringReverse.exe
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse\StringReverse\bin\Debug\StringReverse.pdb
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse\StringReverse\obj\Debug\StringReverse.csprojResolveAssemblyReference.cache
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse\StringReverse\obj\Debug\StringReverse.exe
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse\StringReverse\obj\Debug\StringReverse.pdb

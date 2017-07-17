@@ -1,0 +1,9 @@
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse2\StringReverse2\bin\Debug\StringReverse2.exe.config
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse2\StringReverse2\bin\Debug\StringReverse2.exe
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse2\StringReverse2\bin\Debug\StringReverse2.pdb
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse2\StringReverse2\obj\Debug\StringReverse2.csprojResolveAssemblyReference.cache
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse2\StringReverse2\obj\Debug\StringReverse2.exe
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\StringReverse2\StringReverse2\obj\Debug\StringReverse2.pdb
+E:\Dhanalakshmi\DHANA FILES\MyArea\DotNet\C#\StringReverse2\StringReverse2\bin\Debug\StringReverse2.exe.config
+E:\Dhanalakshmi\DHANA FILES\MyArea\DotNet\C#\StringReverse2\StringReverse2\obj\Debug\StringReverse2.exe
+E:\Dhanalakshmi\DHANA FILES\MyArea\DotNet\C#\StringReverse2\StringReverse2\obj\Debug\StringReverse2.pdb

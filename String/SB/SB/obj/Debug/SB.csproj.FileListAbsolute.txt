@@ -1,0 +1,6 @@
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\SB\SB\bin\Debug\SB.exe.config
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\SB\SB\bin\Debug\SB.exe
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\SB\SB\bin\Debug\SB.pdb
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\SB\SB\obj\Debug\SB.csprojResolveAssemblyReference.cache
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\SB\SB\obj\Debug\SB.exe
+E:\Dhanalakshmi\DHANA FILES\MyArea\C#\SB\SB\obj\Debug\SB.pdb
